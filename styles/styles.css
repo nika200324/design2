@@ -363,8 +363,9 @@ body {
 
 @media screen and (min-width: 1220px) {
     .container {
-        margin: 0 165px 0;
-        max-width: 100%;
+        width: 1110px;
+        max-width: 1110px;
+        margin: 0 auto;
     }
 
     .section1-content {
@@ -435,4 +436,5 @@ body {
         height: 322px;
         margin: 0 0 56px 0;
     }
+   
 }
